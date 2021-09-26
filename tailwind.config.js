@@ -17,6 +17,7 @@ module.exports = {
       },
       fontSize: {
         '2xs': ['0.50rem', {lineHeight: '0.75rem'}], 
+        'mid': []
       }
     },
   },
